@@ -137,14 +137,14 @@
   <!-- Navigation -->
   <div class="block box-border p-4 mt-2 border-b-2 border-gray-200">
     <div class="flex justify-between items-center max-w-[90%]">
-      <div class="flex justify-between items-center">
+      <div class="flex justify-between items-center ml-8">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
           stroke-width="1.5"
           stroke="currentColor"
-          class="w-6 h-6"
+          class="w-6 h-6 mr-2"
         >
           <path
             stroke-linecap="round"
@@ -153,7 +153,7 @@
           />
         </svg>
 
-        <h4>Categories</h4>
+        <h4 class="font-bold text-lg">Categories</h4>
 
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -161,7 +161,7 @@
           viewBox="0 0 24 24"
           stroke-width="1.5"
           stroke="currentColor"
-          class="w-6 h-6"
+          class="w-6 h-6 ml-2"
         >
           <path
             stroke-linecap="round"
@@ -197,7 +197,7 @@
       </div>
     </div>
   </div>
-  <main>
+  <main class="px-8 py-3 bg-gray-100">
     <RouterView />
   </main>
 </template>
