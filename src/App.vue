@@ -198,7 +198,10 @@
     </div>
   </div>
   <main class="px-8 py-3 bg-gray-100">
-    <RouterView />
+    <div class="ml-5 mr-5 bg-white">
+      <RouterView />
+    </div>
+    
   </main>
 </template>
 
