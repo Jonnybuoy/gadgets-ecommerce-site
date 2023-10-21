@@ -173,102 +173,6 @@
           </div>
           
         </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
         
       </div>
 
@@ -280,18 +184,17 @@
         </div>
 
         <div class="mt-2 p-4 grid grid-cols-5 gap-5">
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
+        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl" v-for="product in products" :key="product.id">
           <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
+            <img :src="product.get_image" alt="" class="w-full h-32 sm:h-48 object-cover">
           </div>
   
           <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
+            <span class="text-lg font-sans text-center">{{ product.name }}</span>
+            <span class="block font-bold text-lg text-blue-600 mt-2">KES {{ product.price }}</span>
 
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
+            <div class="p-4">
+              <router-link :to="product.get_absolute_url" class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</router-link>
             </div>
           </div>
 
@@ -303,106 +206,7 @@
           </div>
           
         </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-
-        <div class="bg-white rounded overflow-hidden shadow-md relative hover:shadow-xl">
-          <div class="p-4 bg-white">
-            <img src="src/img/hp-laptop.jpeg" alt="" class="w-full h-32 sm:h-48 object-cover">
-          </div>
-  
-          <div class="mt-4 flex flex-col items-center">
-            <span class="text-lg font-sans text-center">HP Laptop 15-dw3208nia Intel® Core™ i3-1115G4 (up to 4.1 GHz with Intel® Turbo Boost
-              Technology, 6 MB L3 cache, 2 cores)</span>
-            <span class="block font-bold text-lg text-blue-600 mt-2">KES 25000</span>
-
-            <div>
-              <button class="bg-blue-600 rounded p-2 text-white text-base mb-4 mt-2 uppercase">Buy Now</button>
-            </div>
-          </div>
-
-          <div class="rounded-full p-1.5 bg-blue-500 uppercase font-bold text-white absolute top-0 text-sm flex justify-between">
-            <svg class="w-5 inline-block mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-            <span>Sale</span>
-          </div>
-          
-        </div>
-        
       </div>
-
-
       </div>
       
       
@@ -410,4 +214,23 @@
     </div>
   </div>
 </template>
-<script></script>
+
+<script>
+import { useProductStore } from '../stores/ProductStore';
+import { storeToRefs } from 'pinia';
+
+
+export default {
+  name: "HomeView",
+
+  setup() {
+    const productStore = useProductStore();
+
+    productStore.fetchProducts();
+
+    const { products } = storeToRefs(productStore);
+
+    return { productStore, products };
+  },
+};
+</script>
